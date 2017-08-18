@@ -1,3 +1,5 @@
+// Tutorial Link - https://www.w3schools.com/nodejs/nodejs_email.asp
+
 var nodemailer = require('nodemailer');
 
 var transporter = nodemailer.createTransport({
